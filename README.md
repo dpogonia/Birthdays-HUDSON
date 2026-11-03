@@ -15,8 +15,8 @@ SwiftUI, SwiftData.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Birthdays.git
-cd Birthdays
+git clone https://github.com/dpogonia/Birthdays-HUDSON.git
+cd Birthdays-HUDSON
 open "Weather Now.xcodeproj"
 ```
 
